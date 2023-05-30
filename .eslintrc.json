@@ -4,6 +4,7 @@
   ],
   "rules": {
     "react-hooks/exhaustive-deps": "off",
-    "no-useless-catch": "off"
+    "no-useless-catch": "off",
+    "camelcase": "off"
   }
 }
