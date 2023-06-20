@@ -1,35 +1,32 @@
-<p align="center">
-  <img alt="Rocketseat Education" src="https://avatars.githubusercontent.com/u/69590972?s=200&v=4" width="100px" />
-</p>
+# Quiz
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Rocketseat&message=Education&color=8257e5&labelColor=202024" alt="Rocketseat Project" />
-  <a href="LICENSE"><img  src="https://img.shields.io/static/v1?label=License&message=MIT&color=8257e5&labelColor=202024" alt="License"></a>
-</p>
+## Sobre
 
-## 💻 Projeto
+O Quiz é um app de quiz que foi desenvolvido para implementar animações feedback tátil e sonoro no react native usando o Reanimated ,Expo AV e React Native Skia.
 
-ignitequiz_template
+## Instalação
 
-## 📝 Licença
+```bash
+git clone https://github.com/manoguii/quiz.git
+```
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+- Para rodar o projeto localmente
+  - Mobile
+    1. Instale as dependências ```npm install```
+    2. Execute a aplicação. ```npx expo start```
+    3. Caso queira visualizar o app no seu dispositivo baixo o app ```expo``` e leia o QR code que aparece no terminal.
+
+## Tecnologias
+
+Algumas tecnologias utilizadas para construção da aplicação.
+
+- React Native
+- TypeScript
+- React Native Skia
+- React Native Reanimated
+- Async Storage
+- Expo
 
 ---
 
-<p align="center">
-  Feito com 💜 by Rocketseat
-</p>
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-
-<p align="center">
-  <a href="https://discord.gg/rocketseat" target="_blank">
-    <img align="center" src="https://storage.googleapis.com/golden-wind/comunidade/rodape.svg" alt="banner"/>
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
+<center>Made with 💙 by Guilherme David</center>
